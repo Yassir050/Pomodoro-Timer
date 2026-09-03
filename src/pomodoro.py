@@ -31,4 +31,4 @@ def start_pomodoro(work_minutes=25, break_minutes=5):
 
 
 if __name__ == "__main__":
-    start_pomodoro()
+    countdown(0.05, "Test")
